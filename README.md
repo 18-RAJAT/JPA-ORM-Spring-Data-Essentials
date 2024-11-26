@@ -1,10 +1,13 @@
 # Understanding ORM, JPA, and Spring Data JPA
 
+---
+![sd](https://github.com/user-attachments/assets/413a8339-b1aa-4dea-860e-e3cdf6cc0230)
+
+---
+
 ## Introduction
 
 ORM connects object-oriented programming with relational databases, enabling data interaction through objects instead of SQL. It automatically maps classes to tables and attributes to columns, simplifying database operations.
----
-![sd](https://github.com/user-attachments/assets/413a8339-b1aa-4dea-860e-e3cdf6cc0230)
 
   <!-- 
  
