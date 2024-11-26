@@ -6,19 +6,18 @@ Object-Relational Mapping (ORM) is a technique that helps developers connect the
 ---
 ![sd](https://github.com/user-attachments/assets/413a8339-b1aa-4dea-860e-e3cdf6cc0230)
 
----
   <!-- 
  
 *![1st](https://github.com/user-attachments/assets/494b531c-9f0e-4b58-92d6-de0fa0eb0d29)
 
 -->
-
+---
 ![1st update](https://github.com/user-attachments/assets/6f7aac4a-9ce9-4236-8f46-66073609f0bc)
 
 ---
+ <!-- 
 ![2nd](https://github.com/user-attachments/assets/723f54b7-6108-4922-9b18-8e4ff454c2d2)
-
----
+-->
 
 ## Overview
 
@@ -52,7 +51,9 @@ Spring Data JPA integrates deeply with Spring Boot, making it ideal for building
 Together, these technologies simplify database operations, enabling developers to focus on business logic.
 
 ---
+![2nd update](https://github.com/user-attachments/assets/4bc0c11b-293b-4d33-bdd8-6d09a72b4219)
 
+---
 ## Real-World Applications
 
 In an e-commerce application:
