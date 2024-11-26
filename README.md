@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Object-Relational Mapping (ORM) is a technique that helps developers connect the world of object-oriented programming with relational databases. It allows programmers to work with database data using objects in their preferred programming language instead of writing raw SQL queries. ORM frameworks automatically map classes to database tables and attributes to columns, making database interactions more intuitive.
+ORM connects object-oriented programming with relational databases, enabling data interaction through objects instead of SQL. It automatically maps classes to tables and attributes to columns, simplifying database operations.
 ---
 ![sd](https://github.com/user-attachments/assets/413a8339-b1aa-4dea-860e-e3cdf6cc0230)
 
